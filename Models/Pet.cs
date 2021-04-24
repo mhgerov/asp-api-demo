@@ -5,5 +5,6 @@ namespace PetStoreApi.Models
         public long Id { get; set; }
         public string Name { get; set; }
         public string[] photoUrls { get; set; }
+        public string status { get; set; }
     }
 }
