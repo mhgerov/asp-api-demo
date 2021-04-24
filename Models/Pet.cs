@@ -4,7 +4,7 @@ namespace AspApiDemo.Models
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public string[] photoUrls { get; set; }
-        public string status { get; set; }
+        public string[] PhotoUrls { get; set; }
+        public string Status { get; set; }
     }
 }
