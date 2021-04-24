@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace asp_api_demo
+namespace AspApiDemo
 {
     public class Startup
     {

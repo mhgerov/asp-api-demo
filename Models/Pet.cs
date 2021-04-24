@@ -1,4 +1,4 @@
-namespace PetStoreApi.Models
+namespace AspApiDemo.Models
 {
     public class Pet
     {
